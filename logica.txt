@@ -1,0 +1,10 @@
+Pense em tudo que o código terá que fazer e liste tarefa por tarefa.
+
+    Objetivos:
+        1º - Quando passar o mouse em cima do personagem temos que:
+            - Colocar a classe selecionado no personagem que passamos o mouse para adicionar a animação nele.
+            - Retirar classe selecionado que estava selecionado
+        
+        2º - Quando passar o mouse em cima de qualquer personagem, a imagem de fundo deve ser alterada para o personagem que o mouse estiver selecionando.
+            - Alterar imagem do personagem selecionado
+            - Alterar o nome do personagem selecionado
